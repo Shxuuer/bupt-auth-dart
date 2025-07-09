@@ -4,6 +4,17 @@ Dart implementation of BUPT-Auth, a library for authenticating with BUPT service
 
 参考[https://github.com/byrdocs/bupt-auth](https://github.com/byrdocs/bupt-auth)
 
+## 安装
+
+pubspec.yaml 中添加
+
+```yaml
+dependencies:
+  bupt_auth_dart: ^1.0.0
+```
+
+然后运行 `dart pub get` 安装依赖。
+
 ## 使用
 
 ```dart

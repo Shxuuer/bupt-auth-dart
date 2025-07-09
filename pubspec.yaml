@@ -1,6 +1,7 @@
 name: bupt_auth_dart
 description: dart implementation of bupt-auth
 version: 1.0.0
+homepage: https://github.com/Shxuuer/bupt-auth-dart
 
 environment:
   sdk: ^3.8.1
